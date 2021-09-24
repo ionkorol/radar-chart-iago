@@ -60,7 +60,7 @@ const RadarChart = () => (
             pointLabels: {
               color: "rgba(100, 100, 100, 1)",
               font: {
-                weight: "bold",
+                size: 12,
               },
             },
           },
